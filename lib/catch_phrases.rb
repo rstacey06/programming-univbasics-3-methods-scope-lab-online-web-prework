@@ -6,6 +6,3 @@ end
 def toadstool
   puts status
 end
-def catch_phrase
-  puts phrase
-end
